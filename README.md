@@ -1,1 +1,0 @@
-<h2>Intention is view a logfile better</h2>
